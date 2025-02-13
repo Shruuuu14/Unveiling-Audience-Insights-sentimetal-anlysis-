@@ -1,4 +1,4 @@
-# Unveiling-Audience-Insights-sentimetal-anlysis-
+# Unveiling-Audience-Insights
 
 ## Overview
 With the exponential increase in textual data, particularly in the form of user-generated content, there has been a growing interest in applying machine learning (ML) and natural language processing (NLP) techniques to analyze this information. This project focuses on performing sentiment analysis on YouTube comments related to trending topics, leveraging various machine learning algorithms.
