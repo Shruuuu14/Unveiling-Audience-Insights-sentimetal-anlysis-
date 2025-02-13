@@ -77,5 +77,5 @@ Run the analysis:
 Contributions are welcome! Feel free to submit pull requests or open issues for discussions.
 
 ## Contact
-For any inquiries, please reach out via [your-email@example.com , shrutithareja@gmail.com].
+For any inquiries, please reach out via [shrutithareja@gmail.com , manassaluja31.com].
 
